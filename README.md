@@ -34,9 +34,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Habits é um aplicativo para ajudar a rastreas os habitos.
 
+- [Visite o projeto online] {https://nathaliasevilha.github.io/nlw-setup/}
+
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195326661124171197). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
